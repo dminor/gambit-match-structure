@@ -1,0 +1,3 @@
+A pattern matching macro to work with Gambit Scheme's define-structure, based
+upon the 'variant-case' macro in Appendix A of Essentials of Programming
+Languages, by Friedman and Wand, 1992.
